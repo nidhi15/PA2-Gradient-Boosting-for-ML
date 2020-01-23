@@ -1,8 +1,4 @@
-# Northeastern University - Fall 2019 
-# ALY6020 - Predictive Analytics
-# Marco Montes de Oca
-
-# Assignment 2 - Gradient Boosting, Submitted By Nidhi Shah
+#Gradient Boosting Learning for ML
 
 # --------------------- Step 1 - Load the packages and generate the data ---------------------
 # Install the required packages and load the libraries
